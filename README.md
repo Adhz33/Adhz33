@@ -223,7 +223,7 @@ Cloud & MLOps
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adhentom&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
+<img src="https://ghchart.rshah.org/70a5fd/adhentom" alt="adhentom's GitHub contribution chart" width="95%"/>
 </div>
 
 <div align="center">
