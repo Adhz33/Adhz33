@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif"/>
 
 ```python
 class Adhen:
@@ -219,7 +219,7 @@ Cloud & MLOps
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=adhentom&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&sideLabels=38BDAE&dates=8B949E&currStreakLabel=70A5FD&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=adhentom&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&sideLabels=38BDAE&dates=8B949E&currStreakLabel=70A5FD&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
 <div align="center">
